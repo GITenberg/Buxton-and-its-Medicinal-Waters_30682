@@ -1,0 +1,27 @@
+_repo: Buxton-and-its-Medicinal-Waters_30682
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gifford-Bennet, Robert Ottiwell
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '34751'
+    url: http://www.gutenberg.org/2009/agents/34751
+description: ''
+gutenberg_issued: '2009-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30682'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mineral waters -- England'
+- !lcc 'DA'
+- !lcsh 'Health resorts -- England -- Buxton (Derbyshire)'
+title: Buxton and its Medicinal Waters
+url: http://www.gutenberg.org/ebooks/30682
